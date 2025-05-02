@@ -1,6 +1,9 @@
 <h1 align="center">Hello there!👋 <br> This is me Julkarnine Mohammad Tarek</h1>
-<h3 align="center">A passionate Android App and Full-stack web developer(running) from Chattogram, Bangladesh.</h3>
+<div align="center">
+  
+### 🚀 A passionate Android App & Full-stack Web Developer (in progress) from Chattogram, Bangladesh 🇧🇩
 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julkarnine3&label=Profile%20views&color=0e75b6&style=flat" alt="julkarnine3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julkarnine3" alt="julkarnine3" /></a> </p>
