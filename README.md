@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hello+there!+%F0%9F%91%8B;This+is+me+Julkarnine+Mohammad+Tarek;CSE+Undergrad+%7C+MERN+full+stack+%26+Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Julkarnine%20Mohammad%20Tarek&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=CSE+Undergraduate+%40+Premier+University;MERN+Full-Stack+Developer;Deep+Learning+%26+Computer+Vision+Researcher;Currently+building+Jersey+Number+Recognition" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/julkarninetarek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -11,7 +15,7 @@
 
 - 🎓 Undergraduate CSE student at **Premier University, Chattogram**
 - 🔬 Currently working on my thesis: **Vision-Guided Jersey Number Recognition** — a pose-aware torso localization and multi-variant OCR pipeline for football player identification in images and broadcast video
-- 💼 Background in **MERN stack** (from programming hero)and **Android development** (former intern at Stamasoft Technologies)
+- 💼 Background in **MERN stack** and **Android development** (former intern at Stamasoft Technologies)
 - 👨‍🏫 Also have teaching and leadership experience alongside academic work
 
 ## Tech Stack
