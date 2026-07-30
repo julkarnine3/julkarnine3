@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=Julkarnine%20Mohammad%20Tarek&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&stroke=B983FF&strokeWidth=1" width="100%" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=CSE+Undergraduate+%40+Premier+University;MERN+Full-Stack+Developer;Deep+Learning+%26+Computer+Vision+Researcher;Currently+building+Jersey+Number+Recognition" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=CSE+Undergraduate+%40+Premier+University;MERN+Full-Stack+Developer;Deep+Learning+%26+Computer+Vision+Researcher;Software+Engineer;Currently+building+Jersey+Number+Recognition" alt="Typing SVG" />
 
 </div>
 
