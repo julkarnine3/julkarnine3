@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Julkarnine%20Mohammad%20Tarek&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=Julkarnine%20Mohammad%20Tarek&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&stroke=64FFDA&strokeWidth=1" width="100%" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=CSE+Undergraduate+%40+Premier+University;MERN+Full-Stack+Developer;Deep+Learning+%26+Computer+Vision+Researcher;Currently+building+Jersey+Number+Recognition" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=CSE+Undergraduate+%40+Premier+University;MERN+Full-Stack+Developer;Deep+Learning+%26+Computer+Vision+Researcher;Currently+building+Jersey+Number+Recognition" alt="Typing SVG" />
 
 </div>
 
